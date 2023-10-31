@@ -1,5 +1,5 @@
 ### Hi I'm Samuel 👋
-<h4>Currently studying systems analysis and development at Fatec Rio Preto📖</h4>
+<h2>Currently studying systems analysis and development at Fatec Rio Preto📖</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samoel.png/)
 
