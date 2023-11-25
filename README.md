@@ -1,4 +1,6 @@
-### Hi I'm Samuel 👋
+<div align="center">
+  <h1>Hi There 👋, I'm Samuel 
+</h1></div>
 <h3>Currently studying systems analysis and development at Fatec Rio Preto📖</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samoel.png/)
