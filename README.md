@@ -13,6 +13,6 @@
 </div>
 
 <div align = "center">
-  <h5>Well, I'm currently graduating in ADS at Fatec Rio Preto, because I want to become a fullstack developer, maybe one day work in the game development area, I'm looking for job opportunities so that I can gain experience and knowledge to evolve in the area.📖 You can contact me through one of my social networks.</h5>  
+  <h4>Well, I'm currently graduating in ADS at Fatec Rio Preto, because I want to become a fullstack developer, maybe one day work in the game development area, I'm looking for job opportunities so that I can gain experience and knowledge to evolve in the area.📖 You can contact me through one of my social networks.</h4>  
 </div>
 
