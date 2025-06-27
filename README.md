@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  I'm a Full Stack Developer passionate about building intuitive and efficient web applications.<br/>
+  I'm currently working as a Full Stack Developer, passionate about building intuitive and efficient web applications.<br/>
   I specialize in technologies like <strong>React, Next.js, TypeScript, Tailwind CSS, Node.js</strong>, and <strong>Prisma with MongoDB</strong>.<br/>
   Graduated in <strong>Analysis and Systems Development at Fatec Rio Preto</strong>, I'm looking to grow as a developer.<br/>
   I also have a strong interest in <strong>game development</strong> and love new challenges. 🚀<br/>
