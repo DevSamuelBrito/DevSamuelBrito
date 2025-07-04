@@ -72,7 +72,7 @@
 <div>
     <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img alt="WSL2" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height=28px />
+    <img alt="WSL2" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png"/>
     <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
