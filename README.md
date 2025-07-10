@@ -20,7 +20,7 @@
 
 ## 🚀 My Tech Stack
 
-### 🧑‍💻 Languages
+### 🖥️ Languages
 
 <div> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -55,7 +55,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
-### 🧪 Testes
+### 🧪 Tests
 
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
