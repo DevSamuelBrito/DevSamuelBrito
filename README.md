@@ -25,7 +25,6 @@
 <div> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> 
 </div>
 
 ### 👨‍💻 Frontend
@@ -42,7 +41,6 @@
 ### 🧠 Backend
 
 <div> 
-  <img align="center "alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
   <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
