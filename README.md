@@ -20,19 +20,6 @@
 <br>
 <h1 style="border-bottom: none;" align="center">🚀 Tech Stack</h1>
 
-<style>
-  table {
-    margin: auto;
-    border-collapse: collapse;
-  }
-  th {
-    text-align: center;
-    vertical-align: middle;
-    font-size: 18px;
-  }
-  
-</style>
-
 <table align="center">
   <thead>
     <tr>
