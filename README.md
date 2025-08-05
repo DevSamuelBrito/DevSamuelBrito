@@ -13,8 +13,11 @@
   Graduated in <strong>Analysis and Systems Development at Fatec Rio Preto</strong>, I'm looking to grow as a developer.<br/>
   I also have a strong interest in <strong>game development</strong> and love new challenges. 🚀<br/>
   <br/>
-  <strong>Feel free to reach out through my social networks!</strong>
 </p>
+
+<div align="center">
+<h3><strong>💡 <em>What I don’t know, give me a few days.</em></strong></h3>
+</div>
 
 ---
 <br>
@@ -40,8 +43,6 @@
         <!-- <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> -->
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
@@ -71,7 +72,7 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /><br/>
         <img src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height="28px" /><br/>
-        <img src="https://img.shields.io/badge/Visual_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       </td>
