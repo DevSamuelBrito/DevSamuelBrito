@@ -55,7 +55,6 @@
         <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
       </td>
