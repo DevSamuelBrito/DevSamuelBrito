@@ -94,7 +94,7 @@
   <a href="https://www.linkedin.com/in/samuel-fava-de-brito/" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-   <a href="https://devsamuelbrito.github.io/" target="_blank">
+   <a href="https://www.devsamuelbrito.com.br/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=%3C%2F%3E%20Portfolio&label=&color=000000&style=for-the-badge" height="35" alt="portfolio logo" />
 </a>
 </div>
