@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://github.com/DevSamuelBrito/DevSamuelBrito/assets/148384134/31b39702-d47a-43cd-8c2d-bbb8ab8555c0"  width="80%" height="300px">
 </div>
@@ -9,7 +10,7 @@
 
 <p align="center">
   I'm currently working as a Full Stack Developer, passionate about building intuitive and efficient web applications.<br/>
-  I specialize in technologies like <strong>React, Next.js, TypeScript, Tailwind CSS, Node.js, Express</strong>, and <strong>Prisma with Postgres</strong>.<br/>
+  I specialize in technologies like <strong>React, Next.js, TypeScript, Tailwind CSS, Node.js, ASP.NET, C#</strong>, and <strong>Postgres with Prisma and Entity Framework</strong>.<br/>
   Graduated in <strong>Analysis and Systems Development at Fatec Rio Preto</strong>, I'm looking to grow as a developer.<br/>
   I also have a strong interest in <strong>game development</strong> and love new challenges. 🚀<br/>
   <br/>
@@ -46,8 +47,10 @@
 
 <div style="display: flex; gap:2px; ">
     <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> -->
+
+   
 </div>
 
 <h3>🗄️ Database & ORM</h3>
@@ -99,3 +102,5 @@
   <img src="https://img.shields.io/static/v1?message=%3C%2F%3E%20Portfolio&label=&color=000000&style=for-the-badge" height="35" alt="portfolio logo" />
 </a>
 </div>
+
+
