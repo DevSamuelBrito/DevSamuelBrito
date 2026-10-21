@@ -3,11 +3,10 @@
 ## About me
 
 - 💼 Working as a Full Stack Developer, delivering <strong>end-to-end</strong> features from front-end interfaces to back-end APIs in production environments.
-- 🛠️ I specialize in technologies like <strong>React, Next.js, TypeScript, Tailwind CSS, ASP.NET, C#</strong>, and <strong>Postgres with Prisma and Entity Framework</strong>.
+- 🛠️ I specialize in technologies like <strong>React, Next.js, TypeScript, Tailwind CSS, NestJS, ASP.NET Core, C#</strong>, and <strong>PostgreSQL with Prisma and Entity Framework</strong>.
 - 🎓 Graduated in <strong>Analysis and Systems Development at Fatec Rio Preto</strong>, I'm looking to grow as a developer.
 - 🎮 I also have a strong interest in <strong>game development</strong> and love new challenges.
-- 🚀 What I don’t know, give me a few days.
-
+- 🚀 <strong>What I don’t know, give me a few days.</strong>
 ## Skills
 
 **🧑‍💻 Languages**
@@ -27,7 +26,9 @@
 
 **🧠 Backend**
 
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-333333?style=flat&logo=.net)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-333333?style=flat&logo=dotnet&logoColor=512BD4)
+
 
 **🗄️ Database & ORM**
 
